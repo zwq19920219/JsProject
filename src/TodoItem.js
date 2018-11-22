@@ -4,7 +4,7 @@ class TodoItem extends React.Component{
     render(){
 
         return <div>
-            hello world
+            你好，中国
         </div>
     }
 

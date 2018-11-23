@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import TodoItem from './TodoItem';
+import App from './App';
 
 
-ReactDOM.render(<TodoItem />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 
